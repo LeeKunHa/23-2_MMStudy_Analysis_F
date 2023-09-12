@@ -3,7 +3,6 @@ data
 .data
 MNIST_DATASET
 data.zip
-딥러닝파이토치_검색기능.pdf
 *.pdf
 *.docx
 *colab*
